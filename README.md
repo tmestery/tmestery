@@ -5,12 +5,6 @@ Computer Science undergraduate at **Iowa State University** with a strong focus 
 
 I’ve worked across **research, backend engineering, and infrastructure**, owning projects from **design → implementation → deployment**.
 
-**Core interests:**
-- Backend & API design
-- AI systems & LLM evaluation
-- Distributed systems & automation
-- Clean architecture and performance focused code
-
 ---
 
 ## Tech Stack
