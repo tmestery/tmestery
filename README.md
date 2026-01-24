@@ -1,19 +1,5 @@
-  <a href="https://www.linkedin.com/in/tmest"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tyler@mestery.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/tmestery"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/🎓%20CS%20Student-Iowa%20State%20University-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬%20Research-AI%20%26%20ML-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍%20Location-Ames%2C%20IA-6366f1?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-## 👨‍💻 Profile
+## About Me
 
 Computer Science undergraduate at **Iowa State University** with a strong focus on **software engineering, AI systems, and backend development**. I enjoy working close to the system level - **performance, correctness, automation, and scalability** - and I’m especially interested in how modern **LLMs and AI tooling** integrate with real production systems.
 
@@ -27,7 +13,7 @@ I’ve worked across **research, backend engineering, and infrastructure**, owni
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,7 +30,7 @@ I’ve worked across **research, backend engineering, and infrastructure**, owni
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🔹 Undergraduate Researcher (Machine Learning) — **Iowa State University**
 **Oct 2025 – Present | Ames, IA**
@@ -70,7 +56,7 @@ I’ve worked across **research, backend engineering, and infrastructure**, owni
 
 ---
 
-## 🎓 Education
+## Education
 
 **Iowa State University** — B.S. in Computer Science  
 **Aug 2024 – May 2027 (Expected)**  
