@@ -1,32 +1,108 @@
-## Main Languages
+# Tyler Mestery
 
-<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" height="80"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000" height="80"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" height="80"/> </div>
+<p>
+  <a href="https://www.linkedin.com/in/tmest"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tyler@mestery.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tmestery"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<div align="center">
-Passionate about Backend/App Development, AI + Automation, DevOps, and Data Science/Engineering.
+<p>
+  <img src="https://img.shields.io/badge/🎓%20CS%20Student-Iowa%20State%20University-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬%20Research-AI%20%26%20ML-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Location-Ames%2C%20IA-6366f1?style=for-the-badge" />
+</p>
+
 </div>
 
-## Frameworks, Tools & Other Tech
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Volley](https://img.shields.io/badge/Volley-009688?style=for-the-badge&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+## 👨‍💻 Profile
+
+Computer Science undergraduate at **Iowa State University** with a strong focus on **software engineering, AI systems, and backend development**. I enjoy working close to the system level - **performance, correctness, automation, and scalability** - and I’m especially interested in how modern **LLMs and AI tooling** integrate with real production systems.
+
+I’ve worked across **research, backend engineering, and infrastructure**, owning projects from **design → implementation → deployment**.
+
+**Core interests:**
+- Backend & API design
+- AI systems & LLM evaluation
+- Distributed systems & automation
+- Clean architecture and performance focused code
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,go,c,ts,postgres&perline=6" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=spring,react,docker,git,postman,androidstudio&perline=6" />
+
+### Cloud & Systems
+<img src="https://skillicons.dev/icons?i=gcp,linux,github,gitlab&perline=6" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🔹 Undergraduate Researcher (Machine Learning) — **Iowa State University**
+**Oct 2025 – Present | Ames, IA**
+- Designing an **automated pipeline** to generate **JAX code from PyTorch workloads** using **Hugging Face LLMs**
+- Evaluating instruction-tuned models (**Qwen, CodeLlama, Mistral, Phi**) for translation accuracy
+- Verifying correctness of generated JAX implementations across increasing workload complexity
+
+---
+
+### 🔹 Information Technology Support Specialist — **Iowa State University**
+**Jul 2025 – Present | Ames, IA**
+- Provide technical support for faculty across hardware, software, and networking
+- Manage system imaging, deployments, account provisioning, and IT inventory
+- Troubleshoot issues in lab and office environments across Windows, macOS, and Linux
+
+---
+
+### 🔹 Undergraduate Researcher (AI Systems) — **ISU × Google DeepMind**
+**Aug 2025 – Nov 2025 | Ames, IA**
+- Built **CodeClip**, a benchmark for evaluating LLM performance in **multi-turn, preference-driven code translation**
+- Developed automation pipelines using **Docker**, AI APIs, and data workflows
+- Deployed experiments on **Google Cloud**, integrating **Piston** for automated compilation and unit testing
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tmestery&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmestery&layout=compact&theme=tokyonight&langs_count=8" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**Iowa State University** — B.S. in Computer Science  
+**Aug 2024 – May 2027 (Expected)**  
+Relevant Coursework:
+- Data Structures & Algorithms
+- Object-Oriented Programming & Design
+- Software Development Practices
+- Computer Architecture
+- Computational Structures
+
+---
+
+## Let’s Connect
+
+<div align="center">
+
+**LinkedIn:** [linkedin.com/in/tmest](https://www.linkedin.com/in/tmest)  
+**GitHub:** [github.com/tmestery](https://github.com/tmestery)  
+**Email:** tyler@mestery.com  
+
+</div>
