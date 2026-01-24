@@ -70,17 +70,6 @@ I’ve worked across **research, backend engineering, and infrastructure**, owni
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tmestery&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmestery&layout=compact&theme=tokyonight&langs_count=8" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Iowa State University** — B.S. in Computer Science  
