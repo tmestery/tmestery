@@ -26,19 +26,19 @@ I’ve worked across **research, backend engineering, and infrastructure**, owni
 
 ## Experience
 
-### 🔹 Undergraduate Researcher (Machine Learning) — **Iowa State University**
-**Oct 2025 – Present | Ames, IA**
-- Designing an **automated pipeline** to generate **JAX code from PyTorch workloads** using **Hugging Face LLMs**
-- Evaluating instruction-tuned models (**Qwen, CodeLlama, Mistral, Phi**) for translation accuracy
-- Verifying correctness of generated JAX implementations across increasing workload complexity
-
----
-
 ### 🔹 Information Technology Support Specialist — **Iowa State University**
 **Jul 2025 – Present | Ames, IA**
 - Provide technical support for faculty across hardware, software, and networking
 - Manage system imaging, deployments, account provisioning, and IT inventory
 - Troubleshoot issues in lab and office environments across Windows, macOS, and Linux
+
+---
+
+### 🔹 Undergraduate Researcher (Machine Learning) — **Iowa State University**
+**Oct 2025 – Jan 2025 | Ames, IA**
+- Designing an **automated pipeline** to generate **JAX code from PyTorch workloads** using **Hugging Face LLMs**
+- Evaluating instruction-tuned models (**Qwen, CodeLlama, Mistral, Phi**) for translation accuracy
+- Verifying correctness of generated JAX implementations across increasing workload complexity
 
 ---
 
