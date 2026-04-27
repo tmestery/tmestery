@@ -26,19 +26,23 @@ I’ve worked across **research, backend engineering, and infrastructure**, owni
 
 ## Experience
 
+### 🔹 Machine Learning Engineer Intern - **Cisco**
+**May 2026 - Present | San Jose, CA**
+- Secure CTO Team
+
 ### 🔹 Information Technology Support Specialist — **Iowa State University**
-**Jul 2025 – Present | Ames, IA**
-- Provide technical support for faculty across hardware, software, and networking
-- Manage system imaging, deployments, account provisioning, and IT inventory
-- Troubleshoot issues in lab and office environments across Windows, macOS, and Linux
+**Jul 2025 – Apr 2026 | Ames, IA**
+- Provided technical support for faculty across hardware, software, and networking
+- Managed system imaging, deployments, account provisioning, and IT inventory
+- Troubleshooted issues in lab and office environments across Windows, macOS, and Linux
 
 ---
 
 ### 🔹 Undergraduate Researcher (Machine Learning) — **Iowa State University**
 **Oct 2025 – Jan 2025 | Ames, IA**
-- Designing an **automated pipeline** to generate **JAX code from PyTorch workloads** using **Hugging Face LLMs**
-- Evaluating instruction-tuned models (**Qwen, CodeLlama, Mistral, Phi**) for translation accuracy
-- Verifying correctness of generated JAX implementations across increasing workload complexity
+- Designed an **automated pipeline** to generate **JAX code from PyTorch workloads** using **Hugging Face LLMs**
+- Evaluated instruction-tuned models (**Qwen, CodeLlama, Mistral, Phi**) for translation accuracy
+- Verified correctness of generated JAX implementations across increasing workload complexity
 
 ---
 
