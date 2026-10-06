@@ -1,5 +1,12 @@
 hey, i'm tyler 👋
 
-mle intern @ **cisco** and former undergrad researcher @ **isu x google deepmind**. cs major @ **iowa state** into machine learning, ai infra, and post-training. 
+- swe intern @ **farmchem**
+- prev mle intern @ **cisco** 
+- prev researcher @ **isu x google deepmind**
+- cs major @ **iowa state**
+  - machine learning
+  - software engineering
+  - post-training
+  - ai-infra
 
 [linkedin](https://www.linkedin.com/in/tmest)
