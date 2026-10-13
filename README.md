@@ -6,7 +6,7 @@ hey, i'm tyler 👋
 - cs major @ **iowa state**
   - machine learning
   - software engineering
+  - cybersecurity
   - post-training
-  - ai-infra
 
 [linkedin](https://www.linkedin.com/in/tmest)
